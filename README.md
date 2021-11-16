@@ -1,14 +1,5 @@
-# sorting_visualizer
-This visualizes bubble sort algorithm
+# Trying python examples of programmiz
+Here I have tried at least 50 examples.
 
-## Project setup
-```
-npm install
-```
+programiz website : https://www.programiz.com/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-___See working example [here](https://kishorpokharel.github.io/vue-sorting-visualizer/)___
